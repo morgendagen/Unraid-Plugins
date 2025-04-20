@@ -33,7 +33,7 @@ Disclaimer:
 ¹ Pull requests welcome! Contributions to add support for other ACME providers and challenge types are encouraged.
 Head over to https://github.com/morgendagen/Unraid-Secure-WebGUI to contribute.
     </Description>
-    <Support>TODO</Support>
+    <Support>https://forums.unraid.net/topic/189395-plugin-secure-unraid-webgui-with-acmesh/</Support>
     <Project>https://github.com/morgendagen/Unraid-Secure-WebGUI</Project>
     <Banner>https://raw.githubusercontent.com/morgendagen/Unraid-Secure-WebGUI/refs/heads/main/src/usr/local/emhttp/plugins/ACME/images/ACME.png</Banner>
     <Icon>https://raw.githubusercontent.com/morgendagen/Unraid-Secure-WebGUI/refs/heads/main/src/usr/local/emhttp/plugins/ACME/images/ACME.png</Icon>
