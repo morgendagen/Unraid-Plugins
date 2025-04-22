@@ -3,7 +3,6 @@
     <Plugin>True</Plugin>
     <PluginURL>https://raw.githubusercontent.com/morgendagen/Unraid-Secure-WebGUI/refs/heads/main/ACME.plg</PluginURL>
     <PluginAuthor>morgendagen</PluginAuthor>
-    <Beta>False</Beta>
     <Category>Network:Web Security:</Category>
     <Name>Secure Unraid WebGUI with acme.sh</Name>
     <Description>
