@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Containers>
     <Plugin>True</Plugin>
-    <PluginURL>https://raw.githubusercontent.com/morgendagen/Unraid-Secure-WebGUI/refs/heads/main/ACME.plg</PluginURL>
+    <PluginURL>https://raw.githubusercontent.com/morgendagen/Unraid-Secure-WebGUI/main/ACME.plg</PluginURL>
     <PluginAuthor>morgendagen</PluginAuthor>
     <Category>Network:Web Security:</Category>
     <Name>Secure Unraid WebGUI with acme.sh</Name>
